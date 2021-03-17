@@ -2,7 +2,7 @@
 
 Olá Seja bem vindx !
 
-Você esta em um compilado de arquivos necessários para construção e montagem de uma impressora 3D de baixo custo, e que visa a mineração urbana e o reaproveitamento de dispositivos eletrônicos encontrados aos montes em descartes e depósitos de sucata.
+Você esta em um compilado de arquivos necessários para construção e montagem de uma impressora 3D RepRap de baixo custo, e que visa a mineração urbana e o reaproveitamento de dispositivos eletrônicos encontrados aos montes em descartes e depósitos de sucata.
 
 O projeto é baseado no modelo Itopie, e essa versão R3 conta com opções para confecção da moldura estrutural de forma manual, pois senti falta dessa opção de corte no projeto original. 
 
@@ -14,9 +14,11 @@ Mais informações podem ser encontradas no link abaixo:
 
 https://r3-waste.blogspot.com/
 
+![Miniatura](https://user-images.githubusercontent.com/52826593/111537714-8befa480-874a-11eb-833a-d3fbaec912c9.png)
+
 Hello welcome !
 
-You are in a compilation of files necessary for the construction and assembly of a low-cost 3D printer, which aims at urban mining and the reuse of electronic devices found in droves and scrap deposits.
+You are in a compilation of files necessary for the construction and assembly of a low-cost RepRap 3D printer, which aims at urban mining and the reuse of electronic devices found in droves and scrap deposits.
 
 The project is based on the Itopie model, and this R3 version has options for making the structural frame manually, as I missed this cutting option in the original design.
 
